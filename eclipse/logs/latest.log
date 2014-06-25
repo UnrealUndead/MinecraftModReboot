@@ -1,0 +1,44 @@
+[15:30:17] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:30:17] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:30:17] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:30:17] [main/INFO]: Forge Mod Loader version 7.2.211.1121 for Minecraft 1.7.2 loading
+[15:30:17] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_05, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre8
+[15:30:17] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[15:30:17] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:30:17] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:30:17] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:30:17] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:30:17] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:30:17] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[15:30:17] [main/ERROR]: The minecraft jar file:/C:/Users/Petar/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.2.1121/forgeSrc-1.7.2-10.12.2.1121.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[15:30:17] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[15:30:17] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/Petar/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.2.1121/forgeSrc-1.7.2-10.12.2.1121.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[15:30:17] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[15:30:17] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:30:17] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:30:17] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[15:30:19] [main/INFO]: Setting user: Player891
+[15:30:20] [Client thread/INFO]: LWJGL Version: 2.9.0
+[15:30:21] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[15:30:21] [Client thread/INFO]: MinecraftForge v10.12.2.1121 Initialized
+[15:30:21] [Client thread/INFO]: Replaced 182 ore recipies
+[15:30:21] [Client thread/INFO]: Completed early MinecraftForge initialization
+[15:30:21] [Client thread/INFO]: Config directory created successfully
+[15:30:21] [Client thread/INFO]: Searching E:\Java Workspace\Minecraft\1.7\MinecraftModReboot\eclipse\mods for mods
+[15:30:23] [Client thread/INFO]: Forge Mod Loader has identified 3 mods to load
+[15:30:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[15:30:23] [Client thread/INFO]: Processing ObjectHolder annotations
+[15:30:23] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[15:30:23] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[15:30:23] [Client thread/INFO]: Applying holder lookups
+[15:30:23] [Client thread/INFO]: Holder lookups applied
+[15:30:24] [Sound Library Loader/INFO]: Sound engine started
+[15:30:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:30:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:30:24] [Client thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
+[15:30:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[15:30:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:30:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:30:25] [Sound Library Loader/INFO]: Sound engine started
+[15:30:25] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[15:30:35] [Client thread/INFO]: Stopping!
