@@ -1,0 +1,34 @@
+package com.unrealundead.modreboot.Configuration;
+
+import java.io.File;
+
+import net.minecraftforge.common.config.Configuration;
+
+public class ConfigHandler
+{
+	
+	
+	public static void initialisation(File configFile)
+	{
+		// This will create a file in E:\Java Workspace\Minecraft\1.7\MinecraftModReboot\eclipse\config
+		Configuration config = new Configuration(configFile);//from net.minecraftforge.common.config.Configuration
+		int testValue = 0;
+		
+		try
+		{
+			config.load();	
+
+			testValue = config.get(config.CATEGORY_GENERAL, "Test Value", 0, "This is just a test value").getInt();
+		}
+		catch(Exception ex)
+		{
+			//Throw exception and log it
+		}
+		finally
+		{
+			config.save();
+		}
+		System.out.println("Test: " + testValue);
+	}
+	
+}

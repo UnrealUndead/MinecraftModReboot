@@ -1,0 +1,22 @@
+{
+  "modinfoversion": 2,
+  "modlist": [{
+    "modid": "mod_ArmorStatusHUD",
+    "name": "ArmorStatusHUD",
+    "description": "",
+    "version": "",
+    "mcversion": "",
+    "url": "",
+    "updateUrl": "",
+    "authors": [ "" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [  ],
+    "parent": "",
+    "requiredMods": [ "" ],
+    "dependencies": [ "" ],
+    "dependants": [  ],
+    "useDependencyInformation": "true"
+  }
+  ]
+}

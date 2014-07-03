@@ -1,0 +1,45 @@
+[13:32:11] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:32:11] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:32:11] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:32:11] [main/INFO]: Forge Mod Loader version 7.2.211.1121 for Minecraft 1.7.2 loading
+[13:32:11] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_05, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre8
+[13:32:11] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[13:32:11] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:32:11] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[13:32:11] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:32:11] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:32:11] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:32:11] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[13:32:12] [main/ERROR]: The minecraft jar file:/C:/Users/Petar/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.2.1121/forgeSrc-1.7.2-10.12.2.1121.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[13:32:12] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[13:32:12] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/Petar/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.2-10.12.2.1121/forgeSrc-1.7.2-10.12.2.1121.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[13:32:12] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[13:32:12] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:32:12] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[13:32:12] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:32:13] [main/INFO]: Setting user: Player118
+[13:32:14] [Client thread/INFO]: LWJGL Version: 2.9.0
+[13:32:15] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[13:32:15] [Client thread/INFO]: MinecraftForge v10.12.2.1121 Initialized
+[13:32:15] [Client thread/INFO]: Replaced 182 ore recipies
+[13:32:15] [Client thread/INFO]: Completed early MinecraftForge initialization
+[13:32:15] [Client thread/INFO]: Searching E:\Java Workspace\Minecraft\1.7\MinecraftModReboot\eclipse\mods for mods
+[13:32:15] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.FMLRenderAccessLibrary. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
+[13:32:16] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[13:32:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod Reboot
+[13:32:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[13:32:17] [Client thread/INFO]: Processing ObjectHolder annotations
+[13:32:17] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[13:32:17] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[13:32:17] [Client thread/INFO]: Applying holder lookups
+[13:32:17] [Client thread/INFO]: Holder lookups applied
+[13:32:17] [Sound Library Loader/INFO]: Sound engine started
+[13:32:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:32:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:32:18] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[13:32:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Mod Reboot
+[13:32:18] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[13:32:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:32:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:32:19] [Sound Library Loader/INFO]: Sound engine started
+[13:32:19] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms

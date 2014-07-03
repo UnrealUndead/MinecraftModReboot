@@ -1,0 +1,44 @@
+package com.unrealundead.modreboot;
+
+import com.unrealundead.modreboot.proxy.IProxy;
+import com.unrealundead.modreboot.reference.GeneralRef;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.Mod.Instance;
+import cpw.mods.fml.common.SidedProxy;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+
+@Mod(modid= GeneralRef.modId, name=GeneralRef.modName, version=GeneralRef.version)
+public class ModReboot 
+{
+	@Instance(GeneralRef.modId)
+	public static ModReboot instance;//making a reference to your mod
+	
+	@SidedProxy(clientSide = "com.unrealundead.modreboot.proxy.ClientProxy", serverSide = "com.unrealundead.modreboot.proxy.ServerProxy")
+	public static IProxy proxy;
+	
+	@EventHandler
+	public void preInitialisation(FMLPreInitializationEvent event)
+	{//used for configs, items, blocks		
+		//using the Forge config class
+		
+	}
+	
+	@EventHandler
+	public void initialisation(FMLInitializationEvent event)
+	{
+		//gui
+		//tile entities
+		//crafting recipes
+		//other general events
+	}
+	
+	@EventHandler
+	public void postInitialisation(FMLPostInitializationEvent event)
+	{
+		//wrap up
+	}
+}

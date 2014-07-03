@@ -1,0 +1,14 @@
+package com.unrealundead.modreboot.Configuration;
+
+import java.io.File;
+
+import javax.security.auth.login.Configuration;
+
+public class ConfigHandler
+{
+	public static void initialisation(File configFile)
+	{
+		Configuration config = new Configuration();
+	
+	}
+}

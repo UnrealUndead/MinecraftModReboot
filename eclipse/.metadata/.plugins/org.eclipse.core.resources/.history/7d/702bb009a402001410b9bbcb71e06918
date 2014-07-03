@@ -1,0 +1,26 @@
+package com.unrealundead.modreboot.Configuration;
+
+import java.io.File;
+
+import net.minecraftforge.common.config.Configuration;
+
+public class ConfigHandler
+{
+	public static void initialisation(File configFile)
+	{
+		Configuration config = new Configuration(configFile);//from Forge
+		
+		try
+		{
+			config.load();			
+		}
+		catch(Exception ex)
+		{
+			
+		}
+		finally
+		{
+			config.save();
+		}
+	}
+}

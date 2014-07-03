@@ -1,0 +1,678 @@
+[
+  {
+    "symbolicName": "com.paulscode.codecwav",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+    "jarFileModificationDate": "2014-06-25T15:12:18.326+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\codecwav\\20101023\\12f031cfe88fef5c1dd36c563c0a3a69bd7261da\\codecwav-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b2f48d9560e9dd312f8ebffa1761d42a21f908f",
+    "jarFileModificationDate": "2014-06-25T15:21:26.694+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.ibm.icu.core",
+    "version": {
+      "major": 51,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63d216a9311cca6be337c1e458e587f99d382b84",
+    "jarFileModificationDate": "2014-06-25T15:12:18.067+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.ibm.icu\\icu4j-core-mojang\\51.2\\63d216a9311cca6be337c1e458e587f99d382b84\\icu4j-core-mojang-51.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "forgeSrc-1.7.2-10.12.2.1121",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fb5ce5beb45aabebb73517ae931979c743436c9e",
+    "jarFileModificationDate": "2014-06-25T15:23:31.198+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\minecraft\\net\\minecraftforge\\forge\\1.7.2-10.12.2.1121\\forgeSrc-1.7.2-10.12.2.1121.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-2.9.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5654d06e61a1bba7ae1e7f5233e1106be64c91cd",
+    "jarFileModificationDate": "2014-06-25T15:12:21.635+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl\\2.9.0\\5654d06e61a1bba7ae1e7f5233e1106be64c91cd\\lwjgl-2.9.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "00ef324dc3af2e9609ff6e033bbd39dfadbe19c2",
+    "jarFileModificationDate": "2014-06-25T15:21:27.687+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j-core",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "beta9"
+    },
+    "jarFileFingerprint": "678861ba1b2e1fccb594bb0ca03114bb05da9695",
+    "jarFileModificationDate": "2014-06-25T15:12:20.938+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-core\\2.0-beta9\\678861ba1b2e1fccb594bb0ca03114bb05da9695\\log4j-core-2.0-beta9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objectweb.asm.all.debug",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dd6ba5c392d4102458494e29f54f70ac534ec2a2",
+    "jarFileModificationDate": "2014-06-25T15:06:17.466+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.ow2.asm\\asm-debug-all\\4.1\\dd6ba5c392d4102458494e29f54f70ac534ec2a2\\asm-debug-all-4.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f4081b69df48f293cf72c65d2cbe0108fbd1539",
+    "jarFileModificationDate": "2014-06-25T15:21:27.089+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-reflect",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 2,
+      "qualifier": "v20130530-074427-VFINAL-60d462ef6e"
+    },
+    "jarFileFingerprint": "444ff8e89a81697997ed8a98a4642ba283130249",
+    "jarFileModificationDate": "2014-06-25T15:12:24.024+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-reflect\\2.10.2\\444ff8e89a81697997ed8a98a4642ba283130249\\scala-reflect-2.10.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.0-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f11873dc8e84c854ec7c5a8fd2e869f8aaef764",
+    "jarFileModificationDate": "2014-06-25T15:08:35.546+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.0\\3f11873dc8e84c854ec7c5a8fd2e869f8aaef764\\lwjgl-platform-2.9.0-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1082e521278fb8198160cac7b79c16fe0f4f6d0b",
+    "jarFileModificationDate": "2014-06-25T15:21:27.085+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "launchwrapper-1.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "116f2aad5b0c68353ebed66cd463517db6522f7e",
+    "jarFileModificationDate": "2014-06-25T15:11:26.988+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.minecraft\\launchwrapper\\1.9\\116f2aad5b0c68353ebed66cd463517db6522f7e\\launchwrapper-1.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.soundsystem",
+    "version": {
+      "major": 20120107,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+    "jarFileModificationDate": "2014-06-25T15:12:18.515+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\soundsystem\\20120107\\419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6\\soundsystem-20120107.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.0-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6621b382cb14cc409b041d8d72829156a87c31aa",
+    "jarFileModificationDate": "2014-06-25T15:12:25.658+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.0\\6621b382cb14cc409b041d8d72829156a87c31aa\\lwjgl-platform-2.9.0-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sf.jopt-simple.jopt-simple",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6065cc95c661255349c1d0756657be17c29a4fd3",
+    "jarFileModificationDate": "2014-06-25T15:12:14.103+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.sf.jopt-simple\\jopt-simple\\4.5\\6065cc95c661255349c1d0756657be17c29a4fd3\\jopt-simple-4.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.librarylwjglopenal",
+    "version": {
+      "major": 20100824,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "73e80d0794c39665aec3f62eee88ca91676674ef",
+    "jarFileModificationDate": "2014-06-25T15:12:18.438+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\librarylwjglopenal\\20100824\\73e80d0794c39665aec3f62eee88ca91676674ef\\librarylwjglopenal-20100824.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "429e02be71264c0d74a97abd6412d10569ed7ad2",
+    "jarFileModificationDate": "2014-06-25T15:21:30.014+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j-api",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "beta9"
+    },
+    "jarFileFingerprint": "1dd66e68cccd907880229f9e2de1314bd13ff785",
+    "jarFileModificationDate": "2014-06-25T15:12:20.432+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-api\\2.0-beta9\\1dd66e68cccd907880229f9e2de1314bd13ff785\\log4j-api-2.0-beta9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.codecjorbis",
+    "version": {
+      "major": 20101023,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c73b5636faf089d9f00e8732a829577de25237ee",
+    "jarFileModificationDate": "2014-06-25T15:12:18.242+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\codecjorbis\\20101023\\c73b5636faf089d9f00e8732a829577de25237ee\\codecjorbis-20101023.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60a5e993c98c864010053cb901b7eab25306568",
+    "jarFileModificationDate": "2014-06-25T15:06:18.946+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.gson\\gson\\2.2.4\\a60a5e993c98c864010053cb901b7eab25306568\\gson-2.2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.0-natives-linux",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2ba5dcb11048147f1a74eff2deb192c001321f77",
+    "jarFileModificationDate": "2014-06-25T15:12:25.318+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.0\\2ba5dcb11048147f1a74eff2deb192c001321f77\\lwjgl-platform-2.9.0-natives-linux.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "trove4j-3.0.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
+    "jarFileModificationDate": "2014-06-25T15:12:17.053+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.sf.trove4j\\trove4j\\3.0.3\\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\\trove4j-3.0.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2014-06-25T15:12:19.948+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\commons-io\\commons-io\\2.4\\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "049c45ba190fa69d741965aacba5523622604480",
+    "jarFileModificationDate": "2014-06-25T15:21:26.836+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-2.0.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
+    "jarFileModificationDate": "2014-06-25T15:12:20.143+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput\\2.0.5\\39c7796b469a600f72380316f6b1f11db6c2c7c4\\jinput-2.0.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "vecmath-1.3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d",
+    "jarFileModificationDate": "2014-06-25T15:12:14.503+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\java3d\\vecmath\\1.3.1\\a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d\\vecmath-1.3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e15f5140cfdafc6750e44a3c6786879d28ccbcdb",
+    "jarFileModificationDate": "2014-06-25T15:21:27.089+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lzma-0.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "521616dc7487b42bef0e803bd2fa3faf668101d7",
+    "jarFileModificationDate": "2014-06-25T15:12:18.122+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\lzma\\lzma\\0.0.1\\521616dc7487b42bef0e803bd2fa3faf668101d7\\lzma-0.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-linux",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7ff832a6eb9ab6a767f1ade2b548092d0fa64795",
+    "jarFileModificationDate": "2014-06-25T15:12:24.295+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput-platform\\2.0.5\\7ff832a6eb9ab6a767f1ade2b548092d0fa64795\\jinput-platform-2.0.5-natives-linux.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb4379be1c58eb98c516ba42e4d249f6c943c99a",
+    "jarFileModificationDate": "2014-06-25T15:21:29.555+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 15,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed727a8d9f247e2050281cb083f1c77b09dcb5cd",
+    "jarFileModificationDate": "2014-06-25T15:06:31.477+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\guava\\15.0\\ed727a8d9f247e2050281cb083f1c77b09dcb5cd\\guava-15.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3bc82c5707e80b282524f41eb633f7abf03b23b6",
+    "jarFileModificationDate": "2014-06-25T15:21:27.087+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "authlib-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4fb033c2d6eccced08752d8f33e8c3a0a45deb2d",
+    "jarFileModificationDate": "2014-06-25T15:12:20.307+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.mojang\\authlib\\1.3\\4fb033c2d6eccced08752d8f33e8c3a0a45deb2d\\authlib-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl_util-2.9.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a778846b64008fc7f48ead2377f034e547991699",
+    "jarFileModificationDate": "2014-06-25T15:12:21.908+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl_util\\2.9.0\\a778846b64008fc7f48ead2377f034e547991699\\lwjgl_util-2.9.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "22c3ec63f4d75a1821cf44f57f0a7a5dbe41ab89",
+    "jarFileModificationDate": "2014-06-25T15:21:27.669+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.java.jutils.jutils",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+    "jarFileModificationDate": "2014-06-25T15:12:20.202+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jutils\\jutils\\1.0.0\\e12fe1fda814bd348c1579329c86943d2cd3c6a6\\jutils-1.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6b87f35d0a45342ffd0188308a5cec4204ea44c",
+    "jarFileModificationDate": "2014-06-25T15:21:30.465+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5e2c12ffab605a78f773e42b2497a9569316346f",
+    "jarFileModificationDate": "2014-06-25T15:21:27.088+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a704031e575b5e7be6ce58c81cef27658c1bd5e4",
+    "jarFileModificationDate": "2014-06-25T15:21:27.134+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "io.netty.netty-all",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 10,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "9e50bd52ffe257a0e2cd8d971688d6ce7d174325",
+    "jarFileModificationDate": "2014-06-25T15:12:19.521+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-all\\4.0.10.Final\\9e50bd52ffe257a0e2cd8d971688d6ce7d174325\\netty-all-4.0.10.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.paulscode.libraryjavasound",
+    "version": {
+      "major": 20101123,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+    "jarFileModificationDate": "2014-06-25T15:12:18.384+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.paulscode\\libraryjavasound\\20101123\\5c5e304366f75f9eaa2e8cca546a1fb6109348b3\\libraryjavasound-20101123.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-library",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 2,
+      "qualifier": "v20130530-074427-VFINAL-60d462ef6e"
+    },
+    "jarFileFingerprint": "6ba65d12cd09d441083262d6f73d2257fec7c663",
+    "jarFileModificationDate": "2014-06-25T15:11:44.591+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-library\\2.10.2\\6ba65d12cd09d441083262d6f73d2257fec7c663\\scala-library-2.10.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-compiler",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 2,
+      "qualifier": "v20130530-074427-VFINAL-60d462ef6e"
+    },
+    "jarFileFingerprint": "64c8b1380cc53d6850823d6e4e7ae984aa44ef9c",
+    "jarFileModificationDate": "2014-06-25T15:12:13.741+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.scala-lang\\scala-compiler\\2.10.2\\64c8b1380cc53d6850823d6e4e7ae984aa44ef9c\\scala-compiler-2.10.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "905075e6c80f206bbe6cf1e809d2caa69f420c76",
+    "jarFileModificationDate": "2014-06-25T15:12:19.776+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-lang3\\3.1\\905075e6c80f206bbe6cf1e809d2caa69f420c76\\commons-lang3-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f24aaa6529dcd656e5d54282825e836bfdb27983",
+    "jarFileModificationDate": "2014-06-25T15:21:29.918+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da16b08de057cb32ece379d162db485617c7d540",
+    "jarFileModificationDate": "2014-06-25T15:21:26.698+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
+    "jarFileModificationDate": "2014-06-25T15:08:35.725+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput-platform\\2.0.5\\385ee093e01f587f30ee1c8a2ee7d408fd732e16\\jinput-platform-2.0.5-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cc9486167264ee51af908e5a1d249e6ee330395c",
+    "jarFileModificationDate": "2014-06-25T15:21:26.699+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput-platform-2.0.5-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "53f9c919f34d2ca9de8c51fc4e1e8282029a9232",
+    "jarFileModificationDate": "2014-06-25T15:12:24.903+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput-platform\\2.0.5\\53f9c919f34d2ca9de8c51fc4e1e8282029a9232\\jinput-platform-2.0.5-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9a1284417f00f1a4c77e67d71a6fbea2eeaf5d7c",
+    "jarFileModificationDate": "2014-06-25T15:21:27.666+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9dbee15da274d181ee6da41f6cd5033f4996225d",
+    "jarFileModificationDate": "2014-06-25T15:21:29.613+02:00",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\charsets.jar",
+    "javaRuntime": true
+  }
+]

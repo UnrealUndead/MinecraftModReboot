@@ -1,0 +1,12 @@
+package com.unrealundead.modreboot.Configuration;
+
+import java.io.File;
+
+public class ConfigHandler
+{
+	public static void initialisation(File configFile)
+	{
+		
+	
+	}
+}
