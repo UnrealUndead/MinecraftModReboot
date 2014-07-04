@@ -1,0 +1,8 @@
+package com.unrealundead.modreboot.reference;
+
+public class ConfigRef 
+{
+	public static final String testCategory = "Test category";
+	
+	public static int testValue = 0;
+}

@@ -1,5 +1,31 @@
 [
   {
+    "symbolicName": "lwjgl-platform-2.9.1-natives-linux",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aa9aae879af8eb378e22cfc64db56ec2ca9a44d1",
+    "jarFileModificationDate": "2014-07-03T13:59:24.114+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.1\\aa9aae879af8eb378e22cfc64db56ec2ca9a44d1\\lwjgl-platform-2.9.1-natives-linux.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "twitch-external-platform-4.5-natives-windows-64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c3cde57891b935d41b6680a9c5e1502eeab76d86",
+    "jarFileModificationDate": "2014-07-03T13:55:00.154+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-external-platform\\4.5\\c3cde57891b935d41b6680a9c5e1502eeab76d86\\twitch-external-platform-4.5-natives-windows-64.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "com.paulscode.codecwav",
     "version": {
       "major": 20101023,
@@ -104,6 +130,32 @@
     "javaRuntime": false
   },
   {
+    "symbolicName": "org.apache.commons.compress",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a698750c16740fd5b3871425f4cb3bbaa87f529d",
+    "jarFileModificationDate": "2014-07-03T13:59:16.608+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-compress\\1.8.1\\a698750c16740fd5b3871425f4cb3bbaa87f529d\\commons-compress-1.8.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "authlib-1.5.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "260f1d004e6ac3b359c96bd12a6c9a937e5378ec",
+    "jarFileModificationDate": "2014-07-03T13:59:18.810+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.mojang\\authlib\\1.5.13\\260f1d004e6ac3b359c96bd12a6c9a937e5378ec\\authlib-1.5.13.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "jre",
     "version": {
       "major": 1,
@@ -169,6 +221,19 @@
     "javaRuntime": false
   },
   {
+    "symbolicName": "twitch-external-platform-4.5-natives-windows-32",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "18215140f010c05b9f86ef6f0f8871954d2ccebf",
+    "jarFileModificationDate": "2014-07-03T13:59:23.639+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-external-platform\\4.5\\18215140f010c05b9f86ef6f0f8871954d2ccebf\\twitch-external-platform-4.5-natives-windows-32.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "com.paulscode.soundsystem",
     "version": {
       "major": 20120107,
@@ -205,6 +270,19 @@
     "jarFileFingerprint": "6065cc95c661255349c1d0756657be17c29a4fd3",
     "jarFileModificationDate": "2014-06-25T15:12:14.103+02:00",
     "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.sf.jopt-simple\\jopt-simple\\4.5\\6065cc95c661255349c1d0756657be17c29a4fd3\\jopt-simple-4.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66f13681add50ca9e4546ffabafaaac7645db3cf",
+    "jarFileModificationDate": "2014-07-03T13:59:18.427+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-lang3\\3.2.1\\66f13681add50ca9e4546ffabafaaac7645db3cf\\commons-lang3-3.2.1.jar",
     "javaRuntime": false
   },
   {
@@ -286,6 +364,19 @@
     "javaRuntime": false
   },
   {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "31fbbff1ddbf98f3aa7377c94d33b0447c646b6e",
+    "jarFileModificationDate": "2014-06-25T15:06:28.390+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.httpcomponents\\httpcore\\4.3.2\\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\\httpcore-4.3.2.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "trove4j-3.0.3",
     "version": {
       "major": -1,
@@ -309,6 +400,19 @@
     "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
     "jarFileModificationDate": "2014-06-25T15:12:19.948+02:00",
     "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\commons-io\\commons-io\\2.4\\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl-platform-2.9.1-natives-windows",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4c517eca808522457dd95ee8fc1fbcdbb602efbe",
+    "jarFileModificationDate": "2014-07-03T13:54:55.838+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.1\\4c517eca808522457dd95ee8fc1fbcdbb602efbe\\lwjgl-platform-2.9.1-natives-windows.jar",
     "javaRuntime": false
   },
   {
@@ -348,6 +452,19 @@
     "jarFileFingerprint": "a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d",
     "jarFileModificationDate": "2014-06-25T15:12:14.503+02:00",
     "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\java3d\\vecmath\\1.3.1\\a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d\\vecmath-1.3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "twitch-5.16",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1f55f009c61637c10c0acfb8b5ffc600f30044b4",
+    "jarFileModificationDate": "2014-07-03T13:59:19.871+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch\\5.16\\1f55f009c61637c10c0acfb8b5ffc600f30044b4\\twitch-5.16.jar",
     "javaRuntime": false
   },
   {
@@ -481,6 +598,19 @@
     "javaRuntime": false
   },
   {
+    "symbolicName": "twitch-platform-5.16-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "62503ee712766cf77f97252e5902786fd834b8c5",
+    "jarFileModificationDate": "2014-07-03T13:59:20.622+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-platform\\5.16\\62503ee712766cf77f97252e5902786fd834b8c5\\twitch-platform-5.16-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "jre",
     "version": {
       "major": 1,
@@ -520,6 +650,32 @@
     "javaRuntime": true
   },
   {
+    "symbolicName": "lwjgl-2.9.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f58c5aabcef0e41718a564be9f8e412fff8db847",
+    "jarFileModificationDate": "2014-07-03T13:59:19.591+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl\\2.9.1\\f58c5aabcef0e41718a564be9f8e412fff8db847\\lwjgl-2.9.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "realms-1.2.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f26fa1f66eaa37a627f338a23a79553ce22eccb1",
+    "jarFileModificationDate": "2014-07-03T13:59:16.293+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.mojang\\realms\\1.2.4\\f26fa1f66eaa37a627f338a23a79553ce22eccb1\\realms-1.2.4.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "io.netty.netty-all",
     "version": {
       "major": 4,
@@ -530,6 +686,45 @@
     "jarFileFingerprint": "9e50bd52ffe257a0e2cd8d971688d6ce7d174325",
     "jarFileModificationDate": "2014-06-25T15:12:19.521+02:00",
     "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\io.netty\\netty-all\\4.0.10.Final\\9e50bd52ffe257a0e2cd8d971688d6ce7d174325\\netty-all-4.0.10.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 16,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aca09d2e5e8416bf91550e72281958e35460be52",
+    "jarFileModificationDate": "2014-07-03T13:59:18.118+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\guava\\16.0\\aca09d2e5e8416bf91550e72281958e35460be52\\guava-16.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "forgeSrc-1.7.10-10.13.0.1160",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4ffc7f1337e1cfdb15e95b62627411d1ca1e81e6",
+    "jarFileModificationDate": "2014-07-03T13:59:46.395+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\minecraft\\net\\minecraftforge\\forge\\1.7.10-10.13.0.1160\\forgeSrc-1.7.10-10.13.0.1160.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "twitch-platform-5.16-natives-windows-32",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7c6affe439099806a4f552da14c42f9d643d8b23",
+    "jarFileModificationDate": "2014-07-03T13:59:20.144+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-platform\\5.16\\7c6affe439099806a4f552da14c42f9d643d8b23\\twitch-platform-5.16-natives-windows-32.jar",
     "javaRuntime": false
   },
   {
@@ -572,6 +767,19 @@
     "javaRuntime": false
   },
   {
+    "symbolicName": "lwjgl-platform-2.9.1-natives-osx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac",
+    "jarFileModificationDate": "2014-07-03T13:59:24.483+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl-platform\\2.9.1\\2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac\\lwjgl-platform-2.9.1-natives-osx.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "org.apache.commons.lang3",
     "version": {
       "major": 3,
@@ -611,6 +819,19 @@
     "javaRuntime": true
   },
   {
+    "symbolicName": "lwjgl_util-2.9.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e",
+    "jarFileModificationDate": "2014-07-03T13:59:19.762+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.lwjgl.lwjgl\\lwjgl_util\\2.9.1\\290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e\\lwjgl_util-2.9.1.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "jinput-platform-2.0.5-natives-windows",
     "version": {
       "major": -1,
@@ -621,6 +842,32 @@
     "jarFileFingerprint": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
     "jarFileModificationDate": "2014-06-25T15:08:35.725+02:00",
     "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\net.java.jinput\\jinput-platform\\2.0.5\\385ee093e01f587f30ee1c8a2ee7d408fd732e16\\jinput-platform-2.0.5-natives-windows.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 3,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "18f4247ff4572a074444572cee34647c43e7c9c7",
+    "jarFileModificationDate": "2014-06-25T15:06:18.775+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.httpcomponents\\httpclient\\4.3.3\\18f4247ff4572a074444572cee34647c43e7c9c7\\httpclient-4.3.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f",
+    "jarFileModificationDate": "2014-06-25T15:06:28.479+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\commons-logging\\commons-logging\\1.1.3\\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\\commons-logging-1.1.3.jar",
     "javaRuntime": false
   },
   {
@@ -650,6 +897,19 @@
     "javaRuntime": false
   },
   {
+    "symbolicName": "twitch-platform-5.16-natives-windows-64",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39d0c3d363735b4785598e0e7fbf8297c706a9f9",
+    "jarFileModificationDate": "2014-07-03T13:54:56.241+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\tv.twitch\\twitch-platform\\5.16\\39d0c3d363735b4785598e0e7fbf8297c706a9f9\\twitch-platform-5.16-natives-windows-64.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "jre",
     "version": {
       "major": 1,
@@ -661,6 +921,19 @@
     "jarFileModificationDate": "2014-06-25T15:21:27.666+02:00",
     "location": "C:\\Program Files\\Java\\jre8\\lib\\jce.jar",
     "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9ce04e34240f674bc72680f8b843b1457383161a",
+    "jarFileModificationDate": "2014-07-03T13:59:18.672+02:00",
+    "location": "C:\\Users\\Petar\\.gradle\\caches\\modules-2\\files-2.1\\commons-codec\\commons-codec\\1.9\\9ce04e34240f674bc72680f8b843b1457383161a\\commons-codec-1.9.jar",
+    "javaRuntime": false
   },
   {
     "symbolicName": "jre",

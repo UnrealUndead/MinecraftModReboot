@@ -1,9 +1,12 @@
 package com.unrealundead.modreboot;
 
-import com.unrealundead.modreboot.Configuration.ConfigHandler;
+import com.unrealundead.modreboot.handlers.ConfigHandler;
 import com.unrealundead.modreboot.proxy.IProxy;
 import com.unrealundead.modreboot.reference.GeneralRef;
+import com.unrealundead.modreboot.utility.Logger;
 
+import cpw.mods.fml.client.event.ConfigChangedEvent;
+import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.Mod.Instance;
@@ -11,35 +14,36 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(modid= GeneralRef.modId, name=GeneralRef.modName, version=GeneralRef.version)
+@Mod(modid= GeneralRef.modId, name=GeneralRef.modName, version=GeneralRef.version, guiFactory = GeneralRef.guiFactory)
 public class ModReboot 
 {
 	@Instance(GeneralRef.modId)
 	public static ModReboot instance;//making a reference to your mod
 	
-	@SidedProxy(clientSide = "com.unrealundead.modreboot.proxy.ClientProxy", serverSide = "com.unrealundead.modreboot.proxy.ServerProxy")
+	@SidedProxy(clientSide = GeneralRef.clientProxy, serverSide = GeneralRef.serverProxy)
 	public static IProxy proxy;
 	
 	@EventHandler
 	public void preInitialisation(FMLPreInitializationEvent event)
-	{//used for configs, items, blocks		
+	{//used for configs, items, blocks	
 		//using the Forge config class, see FMLPreInitializationEvent + F3
-		ConfigHandler.initialisation(event.getSuggestedConfigurationFile());
+		ConfigHandler.initialize(event.getSuggestedConfigurationFile());
+		FMLCommonHandler.instance().bus().register(new ConfigHandler());//registers config handler into event bus
+		Logger.info("Pre initialisation finished!");
 	}
 	
 	@EventHandler
 	public void initialisation(FMLInitializationEvent event)
-	{
-		//gui
-		//tile entities
-		//crafting recipes
-		//other general events
+	{//used for gui, tile entities, crafting recipes, other general events
+		
 	}
 	
 	@EventHandler
 	public void postInitialisation(FMLPostInitializationEvent event)
-	{
-		//wrap up
+	{//used for wrap up
+		
 	}
+	
 }
